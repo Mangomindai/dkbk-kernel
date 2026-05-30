@@ -1,0 +1,48 @@
+# Secrets — NEVER upload these
+private_key.pem
+*.pem
+.env
+_env.txt
+*.env
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Mac files
+.DS_Store
+
+# Logs
+*.log
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Alembic — contains your DB password
+alembic.ini
+migrations/
+
+# Test databases
+test_*.db

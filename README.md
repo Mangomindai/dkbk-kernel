@@ -1,6 +1,3 @@
-# dkbk-kernel
-AI Agent Governance Kernel — trust, approvals, audit
-
 # AgentGuard
 
 **AI Agent Governance Kernel — Trust, Approvals, Audit**

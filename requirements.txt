@@ -1,0 +1,7 @@
+flask
+flask-cors
+pyjwt
+cryptography
+bcrypt
+cachetools
+python-dotenv
