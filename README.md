@@ -1,8 +1,8 @@
-# AgentGuard
-
-**AI Agent Governance Kernel — Trust, Approvals, Audit**
+**Constitutional Governance Kernel for AI Agents**
 
 > *"Your AI agents are only as safe as the system governing them."*
+
+> *"If your agent can break AgentGuard, it better be good at breaking Bitcoin."*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.10+](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/)
