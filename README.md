@@ -1,4 +1,4 @@
-# AgentGuard DKBK
+# AgentGuard 
 
 
 **AgentGuard is a governance kernel for AI agents — trust scoring, capability tokens, human approval gates, and full audit logs**
