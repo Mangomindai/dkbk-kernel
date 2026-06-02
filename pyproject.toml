@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "agentguard-kernel"
+version = "0.1.0"
+description = "Constitutional Governance Kernel for AI Agents — trust scoring, approvals, audit trail"
+readme = "README.md"
+license = { text = "MIT" }
+authors = [
+    { name = "Dheeraj Kumar Biswakarma", email = "bkdk62309@gmail.com" }
+]
+keywords = [
+    "ai", "agents", "governance", "trust", "safety",
+    "audit", "llm", "ai-safety", "agent-governance"
+]
+classifiers = [
+    "Development Status :: 3 - Alpha",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+    "Topic :: Security",
+]
+requires-python = ">=3.10"
+dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/Mangomindai/agentguard"
+Repository = "https://github.com/Mangomindai/agentguard"
+"Bug Tracker" = "https://github.com/Mangomindai/agentguard/issues"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["agentguard*"]
