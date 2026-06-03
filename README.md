@@ -16,7 +16,7 @@
 ```bash
 pip install agentguard-kernel
 ```
-
+[![PyPI](https://img.shields.io/pypi/v/agentguard-kernel.svg)](https://pypi.org/project/agentguard-kernel/)
 ---
 
 ## The Problem
